@@ -1,0 +1,14 @@
+[class*='col']{
+}
+
+img{
+    width: 100%;
+}
+
+.floor{
+    background-image: url('img/FLOOR.jpg');
+}
+
+.space{
+    margin-top: -5px;
+}
